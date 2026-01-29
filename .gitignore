@@ -1,0 +1,27 @@
+# Byte-compiled files
+*.py[cod]
+__pycache__/
+
+# Mac file
+.DS_Store
+
+# IDE settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Miscellaneous
+*.swp
+
+# All folders named
+data_lanzilao2025/H300-C5-G4/
+data_lanzilao2025/H500-C5-G4/
+data_lanzilao2025/H1000-C5-G4/
+data_lanzilao2025/common/
+
+data_lanzilao2024/H500-C5-G4_aligned/
+data_lanzilao2024/H500-C5-G4_double_spacing/
+data_lanzilao2024/H500-C5-G4_half_farm/
+data_lanzilao2024/common/
+
