@@ -12,6 +12,7 @@ A subset of the LES data (only around 300MB per case) relevant for the current w
 
 ## Plots
 
+![](plots/hubheight_contour/out_subplot_hubheight_contour.png)
 
 
 ## References
