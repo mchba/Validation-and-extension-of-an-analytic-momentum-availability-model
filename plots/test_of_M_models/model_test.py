@@ -198,3 +198,4 @@ for i in range(len(short_name)):
 
 plt.subplots_adjust(hspace=0.3, wspace=0.2)
 fig.savefig('out_test_of_M.pdf', bbox_inches='tight')
+fig.savefig('out_test_of_M.png', dpi=300, bbox_inches='tight')
