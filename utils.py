@@ -229,3 +229,15 @@ def power_law_fit_iterative(z, tau, tauw0=1.0):
     alpha2 = popt[0]
 
     return h_p2, alpha2
+
+# Function for solving quadratic equation
+def qsol(a,b,c,sol='positive'):
+    if sol == 'positive':
+        result = (-b + np.sqrt(b**2 - 4*a*c))/(2*a)
+    elif sol == 'negative':
+        result = (-b - np.sqrt(b**2 - 4*a*c))/(2*a)
+    return result
+
+def twoscale(CTs,lam,Cf0,zeta):
+    beta = qsol(a=(CTs*lam/Cf0 + 1), b=zeta, c=(-1-zeta))
+    return beta
