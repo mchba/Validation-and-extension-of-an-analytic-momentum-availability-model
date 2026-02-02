@@ -8,7 +8,7 @@ The raw LES data are availabile at [Lanzilao & Meyers (2024)](https://doi.org/10
 
 ## Post-processed data
 
-A subset of the LES data (only around 300MB per case) relevant for the current work can be downloaded from Zenodo.
+A subset of the LES data (0.9 GB and 1.4 GB for the 2024 and 2025 cases, respectively) relevant for the current work can be downloaded from [Zenodo](https://zenodo.org/records/18458892).
 
 ## Plots
 
