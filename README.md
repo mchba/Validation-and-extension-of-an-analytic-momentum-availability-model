@@ -16,6 +16,8 @@ A subset of the LES data (only around 300MB per case) relevant for the current w
 
 ![](plots/test_of_M_models/out_test_of_M.png)
 
+![](plots/rossby_extension/new_model_tests/article_CPG_comparison.png)
+
 
 ## References
 

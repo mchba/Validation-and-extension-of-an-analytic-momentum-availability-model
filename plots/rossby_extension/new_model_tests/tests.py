@@ -179,6 +179,7 @@ for i in range(len(short_name)):
 plt.tight_layout()
 fig_zeta.subplots_adjust(wspace=0.35)
 fig_zeta.savefig('article_zeta_comparison.pdf', bbox_inches='tight')
+fig_zeta.savefig('article_zeta_comparison.png', bbox_inches='tight',dpi=300)
 
 
 
@@ -230,5 +231,6 @@ for i in range(len(short_name)):
 plt.tight_layout()
 fig_cpg.subplots_adjust(wspace=0.35)
 fig_cpg.savefig('article_CPG_comparison.pdf', bbox_inches='tight')
+fig_cpg.savefig('article_CPG_comparison.png', bbox_inches='tight', dpi=300)
 
 
