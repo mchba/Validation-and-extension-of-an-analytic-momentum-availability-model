@@ -1,6 +1,6 @@
 # Validation-and-extension-of-an-analytic-momentum-availability-model
 
-Post-processed data and plotting scripts used by [Baungaard et. al, 2026](https://arxiv.org/)<sup>[1](#Baungaard2025)</sup>. 
+Post-processed data and plotting scripts used by [Baungaard et. al, 2026](https://arxiv.org/abs/2602.10126)<sup>[1](#Baungaard2025)</sup>. 
 
 ## LES data
 
@@ -21,4 +21,4 @@ A subset of the LES data (0.9 GB and 1.4 GB for the 2024 and 2025 cases, respect
 
 ## References
 
-<a name="Baungaard2026">[1]</a> M. Baungaard, T. Nishino & A. Kirby (2026), [*Validation and extension of an analytic momentum availability model for the two-scale momentum theory of wind farm flows*](https://arxiv.org/), Under preparation
+<a name="Baungaard2026">[1]</a> M. Baungaard, T. Nishino & A. Kirby (2026), [*Validation and extension of an analytic momentum availability model for the two-scale momentum theory of wind farm flows*](https://arxiv.org/abs/2602.10126), arXiv preprint.
