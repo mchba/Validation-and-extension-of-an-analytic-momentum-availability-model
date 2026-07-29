@@ -25,3 +25,10 @@ arxiv/data_lanzilao2024/H500-C5-G4_double_spacing/
 arxiv/data_lanzilao2024/H500-C5-G4_half_farm/
 arxiv/data_lanzilao2024/common/
 
+data/H300-C5-G4/
+data/H500-C5-G4/
+data/H1000-C5-G4/
+data/H500-C5-G4_aligned/
+data/H500-C5-G4_double_spacing/
+data/H500-C5-G4_half_farm/
+
