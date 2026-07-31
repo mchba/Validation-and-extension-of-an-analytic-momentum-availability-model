@@ -1,4 +1,4 @@
-# Validation-and-extension-of-an-analytic-momentum-availability-model
+# (arXiv version) Validation-and-extension-of-an-analytic-momentum-availability-model
 
 Post-processed data and plotting scripts used by [Baungaard et. al, 2026](https://arxiv.org/abs/2602.10126)<sup>[1](#Baungaard2025)</sup>. 
 
